@@ -1,3 +1,6 @@
-git remote add origin https://github.com/Sam-df/portfolio.git
-git branch -M main
-git push -u origin main
+portfolio/
+├── index.html
+├── images/
+│   ├── project1.png
+│   └── project2.jpg
+└── README.md
